@@ -1,5 +1,5 @@
 ## Hello there 👋
-### My name is baptiste, young creative developper based in Rouen, France 🇫🇷
+### My name is Baptiste, young creative developper based in Rouen, France 🇫🇷
 
 
 ---
