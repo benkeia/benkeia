@@ -1,5 +1,5 @@
 ## Hello there 👋
-### My name is Baptiste, young creative developer based in Rouen, France 🇫🇷
+### My name is Baptiste Saegaert, young developer based in Rouen, France 🇫🇷
 
 🌐 **Portfolio :** [baptiste-saegaert.fr](https://baptiste-saegaert.fr/)
 
