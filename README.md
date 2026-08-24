@@ -1,8 +1,6 @@
 ## Hello there 👋
 ### My name is Baptiste Saegaert, young developer based in Rouen, France 🇫🇷
 
-🌐 **Portfolio :** [baptiste-saegaert.fr](https://baptiste-saegaert.fr/)
-
 ---
 
 ## 🛠️ I'm comfortable using : 
